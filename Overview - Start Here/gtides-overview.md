@@ -1,4 +1,4 @@
 # GTides
-####A computational design solution to facilitate interdisciplinary collaboration in breakwater design
+*A computational design solution to facilitate interdisciplinary collaboration in breakwater design*
 
-######Overview
+**Overview**
